@@ -1,0 +1,74 @@
+/*-------------------------------Order----------------------------*/
+.order{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    height: 510px;
+    background-image: url(img/Group\ 2\ 1.png);
+}
+.orderh2{
+width: 130px;
+height: 64px;
+margin-top: 20px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+}
+.orderinput{
+    position: relative;
+    width: 690px;
+    height: 60px;
+    border-radius: 50px;
+    background: #FFFFFF;
+border: 1px solid #000000;
+margin-bottom: 19px;
+}
+.orderinput1{
+    width: 580px;
+height: 50px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 50px;
+margin-bottom: 20px;
+}
+.orderbutton{
+    width: 250px;
+height: 80px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+padding: 20px 48px;
+background: #8E32C6;
+border-radius: 16px;
+overflow: hidden;
+}
+.inputbtn{
+    position: absolute;
+    width: 100.81px;
+height: 33.67px;
+left: 860.62px;
+top: 90px;
+padding: 25px 100px;
+border: 1px solid #000000;
+border-radius: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+display: flex;
+color: #8D8D8D;
+justify-content: center;
+align-items: center;
+}
